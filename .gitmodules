@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "chessR"]
+	path = chessR
+	url = https://github.com/jaseziv/chessr
+	shallow = true
+	registered = true
+[submodule "worldfootballR"]
+	path = worldfootballR
+	url = https://github.com/jaseziv/worldfootballr
+	shallow = true
+	registered = true

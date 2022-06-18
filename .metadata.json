@@ -1,0 +1,10 @@
+[
+  {
+    "package": "chessR",
+    "oncran": true
+  },
+  {
+    "package": "worldfootballR",
+    "oncran": true
+  }
+]
