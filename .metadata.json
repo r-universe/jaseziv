@@ -1,5 +1,9 @@
 [
   {
+    "package": "nblR",
+    "oncran": true
+  },
+  {
     "package": "worldfootballR",
     "oncran": true
   }
