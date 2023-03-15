@@ -1,10 +1,10 @@
 [
   {
-    "package": "nblR",
+    "package": "worldfootballR",
     "oncran": true
   },
   {
-    "package": "worldfootballR",
+    "package": "nblR",
     "oncran": true
   }
 ]
